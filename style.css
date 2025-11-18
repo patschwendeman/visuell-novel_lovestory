@@ -13,6 +13,7 @@ body {
 
 #background {
   position: absolute;
+  display: flex;
   top: 0;
   left: 0;
   width: 100%;
@@ -20,13 +21,16 @@ body {
   background-size: cover;
   background-position: center;
   filter: brightness(0.65);
+  justify-content: space-between;  /* Bild links – Mitte – rechts */
+  pointer-events: none;            /* verhindert, dass Klicks blockiert werden */
+  
 }
 
 #textbox {
   position: absolute;
   bottom: 0;
   width: 100%;
-  background: rgba(20, 20, 20, 0.7);
+  background: rgba(13, 13, 13);
   padding: 20px;
   box-sizing: border-box;
 }
@@ -43,4 +47,25 @@ body {
   margin-left: auto;
   margin-right: 0;
   border-radius: 10px;
+}
+
+#background img {
+  max-height: 85vh;                /* nicht höher als der Bildschirm */
+  object-fit: contain;
+  opacity: 0;                /* Standard unsichtbar */
+  transition: opacity 0.6s ease-in-out;
+}
+
+#person_1 {
+
+}
+
+#optional {
+
+  opacity: 0;                       /* optional – standard unsichtbar */
+  transition: opacity 0.3s ease;
+}
+
+#person_2 {
+
 }
