@@ -2,7 +2,7 @@ const scenes = [
   {
     id: 1,
     title: "Prelogue",
-    text: "Es begann alles mit einem Match, das anders war als alle davor.",
+    text: "Es begann alles mit einem Match, das anders war als alle davor. zzzzzzzzzzzzzzzzzzzzzzzzzzzzz hbh h h         h hhhhhhh h h h h hhhhhhhhhhhhhh",
     background: "img/locations/rama9.png",
     person1: "img/charakter/patrick_normal.png",
     person2: null,
@@ -16,10 +16,7 @@ const scenes = [
     person1: null,
     person2: "img/charakter/patrick_normal.png",
     optional: null,
-    choices: [
-      { text: "Erzähl mir mehr ❤️", next: 3 },
-      { text: "Zeig mir ein Erinnerungsfoto 📸", next: 99 }
-    ]
+    next: 3
   },
   {
     id: 3,
