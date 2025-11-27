@@ -62,19 +62,8 @@ function hideOptional(element) {
 
 function loadScene(id) {
   const nextBtn = document.getElementById("nextBtn");
-  const textbox = document.getElementById("textbox");
-  nextBtn.disabled = true;
-  nextBtn.style.opacity = 0.5;
-
-  textbox.style.willChange = "transform";
-  setTimeout(() => {
-    textbox.style.transform = "translateZ(0)";
-  }, 10);
-
-  setTimeout(() => {
-    textbox.style.willChange = "auto";
-    textbox.style.transform = "";
-  }, 50);
+  nextBtn.disabled = true;       // Button deaktivieren
+  nextBtn.style.opacity = 0.5;   // Optionales visuelles Feedback
 
   const scene = scenes.find(s => s.id === id);
   currentScene = id;
@@ -83,12 +72,12 @@ function loadScene(id) {
 
   if (scene.person1) {
     showOptional(scene.person1, "person_1");
-  } else {
+  }else {
     hideOptional("person_1");
   }
   if (scene.person2) {
     showOptional(scene.person2, "person_2");
-  } else {
+  }else {
     hideOptional("person_2");
   }
   if (scene.optional) {
@@ -107,4 +96,3 @@ function loadScene(id) {
 }
 
 loadScene(currentScene);
-
