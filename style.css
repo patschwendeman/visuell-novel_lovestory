@@ -73,6 +73,16 @@ html, body {
   color: white;
 }
 
+#textbox::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  background: rgba(0,0,0,0.35);
+  z-index: -1;
+}
+
 #text-container {
   width: 85%;
   height: 100%;
