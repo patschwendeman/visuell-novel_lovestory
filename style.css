@@ -56,6 +56,7 @@ html, body {
   object-fit: contain;
   opacity: 0;
   transition: opacity 0.8s ease-in-out;
+  margin: 0 33px 0 33px ;
 }
 
 
@@ -110,7 +111,6 @@ html, body {
 #button-container {
   width: 10%;
   height: 100%;
-
   display: flex;
   justify-content: center;
   align-items: center;
