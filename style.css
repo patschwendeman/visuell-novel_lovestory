@@ -8,6 +8,9 @@ html, body {
   overflow: hidden;
   font-family: 'Poppins', sans-serif;
   background: black;
+
+
+  height: 200vh; /* künstliche Scrollhöhe */
 }
 
 
@@ -27,6 +30,7 @@ html, body {
   inset: 0;
   z-index: 0;
   transform: translateZ(0); /* iOS Fix */
+  overflow: hidden;
 }
 
 #background {
