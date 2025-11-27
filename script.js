@@ -92,20 +92,7 @@ function loadScene(id) {
     nextBtn.style.opacity = 1;
   });
 
-  const choicesContainer = document.getElementById("choices");
-  choicesContainer.innerHTML = "";
-
-  if (scene.choices) {
-    document.getElementById("nextBtn").style.display = "none";
-    scene.choices.forEach(choice => {
-      const btn = document.createElement("button");
-      btn.innerText = choice.text;
-      btn.onclick = () => loadScene(choice.next);
-      choicesContainer.appendChild(btn);
-    });
-  } else {
-    document.getElementById("nextBtn").onclick = () => loadScene(scene.next);
-  }
+  document.getElementById("nextBtn").onclick = () => loadScene(scene.next);
 }
 
 loadScene(currentScene);
