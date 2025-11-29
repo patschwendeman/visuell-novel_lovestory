@@ -1,5 +1,5 @@
 const scenes = [
-  {
+  /* {
     id: 1,
     title: "Prelogue",
     text: "Es begann alles mit einem Match, das anders war als alle davor. zzzzzzzzzzzzzzzzzzzzzzzzzzzzz hbh h h         h hhhhhhh h h h h hhhhhhhhhhhhhh",
@@ -71,6 +71,34 @@ const scenes = [
     person2: "img/charakter/pack_awkward.png",
     optional: null,
     next: 9
+  }, */
+  {
+    id: 1,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_smartphone.png",
+    next: 2
+  },
+  {
+    id: 2,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_suprised.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+    next: 3
+  },
+  
+  {
+    id: 3,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+    next: 4
   },
 ];
 
