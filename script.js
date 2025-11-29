@@ -70,10 +70,10 @@ function loadScene(id) {
 
   document.getElementById("background").style.backgroundImage = `url('${scene.background}')`;
 
-  const textbox = document.getElementById("textbox");
+  /* const textbox = document.getElementById("textbox");
 
   textbox.style.display = "none";
-  textbox.style.display = "flex";
+  textbox.style.display = "flex"; */
 
   if (scene.person1) {
     showOptional(scene.person1, "person_1");
