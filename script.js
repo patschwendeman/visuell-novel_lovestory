@@ -14,7 +14,7 @@ const scenes = [
     text: "Ich weiß noch genau, was ich gedacht habe, als ich dein Profil gesehen habe...",
     background: "img/locations/rama9.png",
     person1: null,
-    person2: "img/charakter/patrick_normal.png",
+    person2: "img/charakter/pack_normal.png",
     optional: null,
     next: 3
   },
@@ -22,10 +22,55 @@ const scenes = [
     id: 3,
     text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
     background: "img/locations/rama9.png",
-    person1: null,
-    person2: "img/patrick_normal.png",
+    person1: "img/charakter/patrick_laught.png",
+    person2: null,
     optional: null,
     next: 4
+  },
+  {
+    id: 4,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_laught.png",
+    optional: null,
+    next: 5
+  },
+  {
+    id: 5,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_suprised.png",
+    person2: null,
+    optional: null,
+    next: 6
+  },
+  {
+    id: 6,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_suprised.png",
+    optional: null,
+    next: 7
+  },
+  {
+    id: 7,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_awkward.png",
+    person2: null,
+    optional: null,
+    next: 8
+  },
+  {
+    id: 8,
+    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_awkward.png",
+    optional: null,
+    next: 9
   },
 ];
 
