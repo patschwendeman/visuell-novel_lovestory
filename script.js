@@ -1,104 +1,429 @@
 const scenes = [
+/*   -------------------------------------------------------------- */
+/*   ----------------------- 0 Prologue --------------------------- */
+/*   -------------------------------------------------------------- */
   {
-    id: 1,
     text: "Pack just arrived from the tempel in hong kong 2 days ago",
     background: "img/locations/tempel.png",
     person1: null,
     person2: null,
     optional: null,
-    next: 2
   },
   {
-    id: 2,
     text: "Pack decided to try one last time",
     background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_normal.png",
     optional: null,
-    next: 3
   },
-  
   {
-    id: 3,
     text: "And start to swipe",
     background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_normal.png",
     optional: "img/optional/pack_smartphone.png",
-    next: 4
   },
   {
-    id: 4,
     text: "And swipe left ..",
     background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_normal.png",
     optional: "img/optional/pack_smartphone.png",
-    next: 5
   },
   {
-    id: 5,
     text: "And swipe left ..",
     background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_normal.png",
     optional: "img/optional/pack_smartphone.png",
-    next: 6
   },
   {
-    id: 6,
     text: "..",
     background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_normal.png",
     optional: "img/optional/pack_bumble_match.png",
-    next: 7
   },
   {
-    id: 7,
     text: "..",
     background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_suprised.png",
     optional: "img/optional/pack_bumble_match.png",
-    next: 8
   },
   {
-    id: 8,
     text: "swipe right",
     background: null,
     person1: null,
     person2: null,
     optional: null,
-    next: 9
   },
   {
-    id: 9,
     text: "Patrick just landed in Thailand from his long flight from germany",
     background: "img/locations/airplane.png",
     person1: null,
     person2: null,
     optional: null,
-    next: 10
   },
   {
-    id: 10,
     text: "Patrick decided to try",
     background: "img/locations/flat_patrick.png",
     person1: "img/charakter/patrick_normal.png",
     person2: null,
     optional: null,
-    next: 11
   },
   {
-    id: 11,
     text: "Patrick start to swipe",
     background: "img/locations/flat_patrick.png",
     person1: "img/charakter/patrick_normal.png",
     person2: null,
     optional: "img/optional/patrick_smartphone.png",
-    next: 12
   },
+  {
+    text: "and swipe left",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_smartphone.png",
+  },
+  {
+    text: "and swipe left",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_smartphone.png",
+  },
+  {
+    text: "and swipe left",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_smartphone.png",
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_suprised.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "swipe right",
+    background: null,
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+/*   -------------------------------------------------------------- */
+/*   -------------------1.1 Bumble Pack----------------------------- */
+/*   -------------------------------------------------------------- */
+
+  {
+    text: "Pack is just arrived at rama 9 on the way back from work ",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "She notices her phone rangs",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: null,
+  },
+  {
+    text: "...",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "We got a match ...",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_suprised.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "What should I text",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "Hello Patrick, descripe yourselfe with an emojy!",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_laught.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "...",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: null,
+  },
+  {
+    text: "Phone rang again",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: null,
+  },
+  {
+    text: "A answer? This was fast!",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_suprised.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "He texted an work emojy",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "Oh no I need to hurry! Pilates class will start soon!",
+    background: null,
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+/*   -------------------------------------------------------------- */
+/*   ------------------1.2 Bumble Patrick-------------------------- */
+/*   -------------------------------------------------------------- */
+  {
+    text: "Patrick just finished work in his flat",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "He noticed his phone rang",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "She answered me with an smile emojy",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_suprised.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "Let's ask her for a Date!",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_laught.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "hmm...",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "But where to go. I don't know the good restaurants here",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_awkward.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "Let's check google maps",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_bumble_match.png",
+  },
+  {
+    text: "This looks good!",
+    background: null,
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+/*   -------------------------------------------------------------- */
+/*   ------------------2.1 Bumble Pack ---------------------------- */
+/*   -------------------------------------------------------------- */
+  {
+    text: "Pack just arrived in her flat as she noticed her phone rangs again",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: null,
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "He asked me for a Date!!",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_suprised.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "YEEY!!",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_laught.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "....",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_laught.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "One moment!",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "Is this a hotel???",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_awkward.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "Does he life there??",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_awkward.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "And does he has some thoughts with me?",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_awkward.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "...",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_bumble_match.png",
+  },
+  {
+    text: "I have a better Idea for a restaurant",
+    background: null,
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+/*   -------------------------------------------------------------- */
+/*   ------------------2.2 Bumble Patrick ------------------------- */
+/*   -------------------------------------------------------------- */
+  {
+    text: "Patrick is just looking for a nice local restaurant in rama 9 as his phone rang",
+    background: "img/locations/rama9.png",
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "...",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "it's Pack! ",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "...",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_laught.png",
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "And she asked me for an other restaurant!",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: null,
+  },
+   {
+    text: "Thanks god she decided. I have no idea where are the good restaurrants but she is a local and know!",
+    background: "img/locations/rama9.png",
+    person1: "img/charakter/patrick_awkward.png",
+    person2: null,
+    optional: null,
+  },
+  {
+    text: "Sure let's meet there at 6",
+    background: null,
+    person1: null,
+    person2: null,
+    optional: null,
+  },
+/*   -------------------------------------------------------------- */
+/*   ------------------3.1 First Date ----------------------------- */
+/*   -------------------------------------------------------------- */
 ];
 
 let currentScene = 1;
@@ -132,44 +457,36 @@ function hideOptional(element) {
 
 
 
-function loadScene(id) {
+function loadScene(index) {
+
+  
+  
   const nextBtn = document.getElementById("nextBtn");
   /* nextBtn.disabled = true;  */      // Button deaktivieren
-  nextBtn.style.opacity = 0.5;   // Optionales visuelles Feedback
+  nextBtn.style.opacity = 0.5;
 
-  const scene = scenes.find(s => s.id === id);
-  currentScene = id;
+  const scene = scenes[index];
+  currentScene = index;
 
-  document.getElementById("background").style.backgroundImage = `url('${scene.background}')`;
+  document.getElementById("background").style.backgroundImage = 
+    scene.background ? `url('${scene.background}')` : "none";
 
-  /* const textbox = document.getElementById("textbox");
+  if (scene.person1) showOptional(scene.person1, "person_1");
+  else hideOptional("person_1");
 
-  textbox.style.display = "none";
-  textbox.style.display = "flex"; */
+  if (scene.person2) showOptional(scene.person2, "person_2");
+  else hideOptional("person_2");
 
-  if (scene.person1) {
-    showOptional(scene.person1, "person_1");
-  }else {
-    hideOptional("person_1");
-  }
-  if (scene.person2) {
-    showOptional(scene.person2, "person_2");
-  }else {
-    hideOptional("person_2");
-  }
-  if (scene.optional) {
-    showOptional(scene.optional, "optional");
-  } else {
-    hideOptional("optional");
-  }
+  if (scene.optional) showOptional(scene.optional, "optional");
+  else hideOptional("optional");
 
   typeWriter(scene.text, document.getElementById("text"), 35, () => {
-    const nextBtn = document.getElementById("nextBtn");
     nextBtn.disabled = false;
     nextBtn.style.opacity = 1;
   });
 
-  document.getElementById("nextBtn").onclick = () => loadScene(scene.next);
+  nextBtn.onclick = () => loadScene(currentScene + 1);
 }
 
-loadScene(currentScene);
+
+loadScene(0);
