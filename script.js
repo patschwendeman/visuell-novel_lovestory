@@ -1,104 +1,103 @@
 const scenes = [
-  /* {
+  {
     id: 1,
-    title: "Prelogue",
-    text: "Es begann alles mit einem Match, das anders war als alle davor. zzzzzzzzzzzzzzzzzzzzzzzzzzzzz hbh h h         h hhhhhhh h h h h hhhhhhhhhhhhhh",
-    background: "img/locations/rama9.png",
-    person1: "img/charakter/patrick_normal.png",
+    text: "Pack just arrived from the tempel in hong kong 2 days ago",
+    background: "img/locations/tempel.png",
+    person1: null,
     person2: null,
     optional: null,
     next: 2
   },
   {
     id: 2,
-    text: "Ich weiß noch genau, was ich gedacht habe, als ich dein Profil gesehen habe...",
-    background: "img/locations/rama9.png",
+    text: "Pack decided to try one last time",
+    background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_normal.png",
     optional: null,
-    next: 3
-  },
-  {
-    id: 3,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: "img/charakter/patrick_laught.png",
-    person2: null,
-    optional: null,
-    next: 4
-  },
-  {
-    id: 4,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: null,
-    person2: "img/charakter/pack_laught.png",
-    optional: null,
-    next: 5
-  },
-  {
-    id: 5,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: "img/charakter/patrick_suprised.png",
-    person2: null,
-    optional: null,
-    next: 6
-  },
-  {
-    id: 6,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: null,
-    person2: "img/charakter/pack_suprised.png",
-    optional: null,
-    next: 7
-  },
-  {
-    id: 7,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: "img/charakter/patrick_awkward.png",
-    person2: null,
-    optional: null,
-    next: 8
-  },
-  {
-    id: 8,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: null,
-    person2: "img/charakter/pack_awkward.png",
-    optional: null,
-    next: 9
-  }, */
-  {
-    id: 1,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: "img/charakter/patrick_normal.png",
-    person2: null,
-    optional: "img/optional/patrick_smartphone.png",
-    next: 2
-  },
-  {
-    id: 2,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
-    person1: "img/charakter/patrick_suprised.png",
-    person2: null,
-    optional: "img/optional/patrick_bumble_match.png",
     next: 3
   },
   
   {
     id: 3,
-    text: "Unser erstes Treffen war aufregend, nervös, aber wunderschön...",
-    background: "img/locations/rama9.png",
+    text: "And start to swipe",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_smartphone.png",
+    next: 4
+  },
+  {
+    id: 4,
+    text: "And swipe left ..",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_smartphone.png",
+    next: 5
+  },
+  {
+    id: 5,
+    text: "And swipe left ..",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_normal.png",
+    optional: "img/optional/pack_smartphone.png",
+    next: 6
+  },
+  {
+    id: 6,
+    text: "..",
+    background: "img/locations/flat_pack.png",
     person1: null,
     person2: "img/charakter/pack_normal.png",
     optional: "img/optional/pack_bumble_match.png",
-    next: 4
+    next: 7
+  },
+  {
+    id: 7,
+    text: "..",
+    background: "img/locations/flat_pack.png",
+    person1: null,
+    person2: "img/charakter/pack_suprised.png",
+    optional: "img/optional/pack_bumble_match.png",
+    next: 8
+  },
+  {
+    id: 8,
+    text: "swipe right",
+    background: null,
+    person1: null,
+    person2: null,
+    optional: null,
+    next: 9
+  },
+  {
+    id: 9,
+    text: "Patrick just landed in Thailand from his long flight from germany",
+    background: "img/locations/airplane.png",
+    person1: null,
+    person2: null,
+    optional: null,
+    next: 10
+  },
+  {
+    id: 10,
+    text: "Patrick decided to try",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: null,
+    next: 11
+  },
+  {
+    id: 11,
+    text: "Patrick start to swipe",
+    background: "img/locations/flat_patrick.png",
+    person1: "img/charakter/patrick_normal.png",
+    person2: null,
+    optional: "img/optional/patrick_smartphone.png",
+    next: 12
   },
 ];
 
@@ -135,7 +134,7 @@ function hideOptional(element) {
 
 function loadScene(id) {
   const nextBtn = document.getElementById("nextBtn");
-  nextBtn.disabled = true;       // Button deaktivieren
+  /* nextBtn.disabled = true;  */      // Button deaktivieren
   nextBtn.style.opacity = 0.5;   // Optionales visuelles Feedback
 
   const scene = scenes.find(s => s.id === id);
