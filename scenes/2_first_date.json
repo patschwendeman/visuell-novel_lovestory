@@ -1,0 +1,93 @@
+[
+    {
+        "_comment": "--------------- 2.1 First Date ---------------------",
+
+        "text": "Later on the same evening ...",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Here is it.",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Looks great!",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Im a bit nervous ...",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "I wonder if she is already inside... Let's go in!",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+
+
+    {
+        "_comment": "--------------- 2.2 First Date ---------------------",
+
+        "text": "*Inside in the Restaurant*",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+
+    {
+        "text": "...",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null
+    },
+    {
+        "text": "I wonder how he is",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null
+    },
+    {
+        "text": "Im a bit nervous ",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_laught.png",
+        "optional": null
+    },
+    {
+        "text": "Oh.. I think he is",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null
+    },
+    {
+        "text": "Hello, are you pack?",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/pack_normal.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null
+    }
+]

@@ -1,0 +1,307 @@
+[
+    {
+        "_comment": "--------------- 1.1 Bumble Pack ---------------------",
+
+        "text": "Pack is just arrived at rama 9 on the way back from work ",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "She notices her phone rangs",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "We got a match ...",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_suprised.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "What should I Text",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "Hello Patrick, descripe yourselfe with an emojy!",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null
+    },
+    {
+        "text": "Phone rang again",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null
+    },
+    {
+        "text": "A answer? This was fast!",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_suprised.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "He Texted an work emojy",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "Oh no I need to hurry! Pilates class will start soon!",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+
+
+    {
+        "_comment": "--------------- 1.2 Bumble Patrick ---------------------",
+
+        "text": "Patrick just finished work in his flat",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "He noticed his phone rang",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "She answered me with an smile emojy",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "Let's ask her for a Date!",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "hmm...",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "But where to go. I don't know the good restaurants here",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "Let's check google maps",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "This looks good!",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+
+
+
+
+
+
+    {
+        "_comment": "--------------- 1.3 Bumble Pack ---------------------",
+
+        "text": "Pack just arrived in her flat as she noticed her phone rangs again",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "He asked me for a Date!!",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_suprised.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "YEEY!!",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "....",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "One moment!",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "Is this a hotel???",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_awkward.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "Does he life there??",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_awkward.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "And does he has some thoughts with me?",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_awkward.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "I have a better Idea for a restaurant",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+    
+
+    {
+        "_comment": "--------------- 1.4 Bumble Patrick ---------------------",
+        
+        "text": "Patrick is just looking for a nice local restaurant in rama 9 as his phone rang",
+        "background": "assets/locations/rama9.png",
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/rama9.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "it's Pack! ",
+        "background": "assets/locations/rama9.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/rama9.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "And she asked me for an other restaurant!",
+        "background": "assets/locations/rama9.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Thanks god she decided. I have no idea where are the good restaurrants but she is a local and know!",
+        "background": "assets/locations/rama9.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Sure let's meet there at 6",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "_comment": "--------------- 0.1 Prologue Pack ---------------------",
+
+        "text": "Pack just arrived from the tempel in hong kong 2 days ago",
+        "background": "assets/locations/tempel.png",
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Pack decided to try one last time",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null
+    },
+    {
+        "text": "And start to swipe",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_smartphone.png"
+    },
+    {
+        "text": "And swipe left ..",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_smartphone.png"
+    },
+    {
+        "text": "And swipe left ..",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_smartphone.png"
+    },
+    {
+        "text": "..",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "..",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_suprised.png",
+        "optional": "assets/optional/pack_bumble_match.png"
+    },
+    {
+        "text": "swipe right",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+
+
+    {
+        "_comment": "--------------- 0.2 Prologue Patrick ---------------------",
+
+        "text": "Patrick just landed in Thailand from his long flight from germany",
+        "background": "assets/locations/airplane.png",
+        "person1": null,
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Patrick decided to try",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null
+    },
+    {
+        "text": "Patrick start to swipe",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_smartphone.png"
+    },
+    {
+        "text": "and swipe left",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_smartphone.png"
+    },
+    {
+        "text": "and swipe left",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_smartphone.png"
+    },
+    {
+        "text": "and swipe left",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_smartphone.png"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/flat_patrick.png",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": null,
+        "optional": "assets/optional/patrick_bumble_match.png"
+    },
+    {
+        "text": "swipe right",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null
+    }
+]
