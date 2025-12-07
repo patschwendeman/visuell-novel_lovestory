@@ -28,18 +28,28 @@ function typeWriter(text, element, speed = 35, callback = null) {
 
     if (i >= text.length) {
       clearInterval(interval);
-      if (callback) callback();   // <- Button wird aktiviert
+      if (callback) callback();
     }
   }, speed);
 }
 
-function showOptional(src, element) {
-  const optional = document.getElementById(element);
-  optional.src = src;
-  optional.style.opacity = 1;
+function showIMG(src, element) {
+  const el = document.getElementById(element);
+
+  if (el.src.includes(src)) {
+    el.style.opacity = 1;
+    return;
+  }
+
+  el.style.opacity = 0;
+
+  setTimeout(() => {
+    el.src = src;
+    el.style.opacity = 1;
+  }, 400);
 }
 
-function hideOptional(element) {
+function hideIMG(element) {
   document.getElementById(element).style.opacity = 0;
 }
 
@@ -62,14 +72,14 @@ function loadScene(index) {
   document.getElementById("background").style.backgroundImage = 
     scene.background ? `url('${scene.background}')` : "none";
 
-  if (scene.person1) showOptional(scene.person1, "person_1");
-  else hideOptional("person_1");
+  if (scene.person1) showIMG(scene.person1, "person_1");
+  else hideIMG("person_1");
 
-  if (scene.person2) showOptional(scene.person2, "person_2");
-  else hideOptional("person_2");
+  if (scene.person2) showIMG(scene.person2, "person_2");
+  else hideIMG("person_2");
 
-  if (scene.optional) showOptional(scene.optional, "optional");
-  else hideOptional("optional");
+  if (scene.optional) showIMG(scene.optional, "optional");
+  else hideIMG("optional");
 
   typeWriter(scene.text, document.getElementById("text"), 35, () => {
     nextBtn.disabled = false;
