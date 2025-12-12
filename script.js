@@ -53,12 +53,15 @@ function hideIMG(element) {
   document.getElementById(element).style.opacity = 0;
 }
 
+function handleLabel(activePerson) {
+  document.getElementById("person_1_label").style.opacity =
+    activePerson === "person1" ? 1 : 0;
 
-
+  document.getElementById("person_2_label").style.opacity =
+    activePerson === "person2" ? 1 : 0;
+}
 
 function loadScene(index) {
-
-  
   
   const nextBtn = document.getElementById("nextBtn");
   /* nextBtn.disabled = true;  */      // Button deaktivieren
@@ -66,20 +69,30 @@ function loadScene(index) {
 
   const scene = scenes[index];
   currentScene = index;
-  console.log("AKTUELLE SCENE:", scene);
-  console.log("TEXT:", scene?.text);
+
+  handleLabel(scene.active)
 
   document.getElementById("background").style.backgroundImage = 
     scene.background ? `url('${scene.background}')` : "none";
 
-  if (scene.person1) showIMG(scene.person1, "person_1");
-  else hideIMG("person_1");
+  if (scene.person1) {
+    showIMG(scene.person1, "person_1");
+    }
+  else {
+    hideIMG("person_1");
+    }
 
-  if (scene.person2) showIMG(scene.person2, "person_2");
-  else hideIMG("person_2");
+  if (scene.person2) {
+    showIMG(scene.person2, "person_2");
+    }
+  else {
+    hideIMG("person_2");
+    }
 
   if (scene.optional) showIMG(scene.optional, "optional");
   else hideIMG("optional");
+
+  
 
   typeWriter(scene.text, document.getElementById("text"), 35, () => {
     nextBtn.disabled = false;
@@ -88,6 +101,5 @@ function loadScene(index) {
 
   nextBtn.onclick = () => loadScene(currentScene + 1);
 }
-
 
 loadAllScenes();
