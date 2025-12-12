@@ -6,42 +6,48 @@
         "background": "assets/locations/restaurant_outside.png",
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "Here is it.",
         "background": "assets/locations/restaurant_outside.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": "person1"
     },
     {
         "text": "Looks great!",
         "background": "assets/locations/restaurant_outside.png",
         "person1": "assets/charakter/patrick_laught.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": "person1"
     },
     {
         "text": "...",
         "background": "assets/locations/restaurant_outside.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "Im a bit nervous ...",
         "background": "assets/locations/restaurant_outside.png",
         "person1": "assets/charakter/patrick_awkward.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": "person1"
     },
     {
         "text": "I wonder if she is already inside... Let's go in!",
         "background": "assets/locations/restaurant_outside.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": "person1"
     },
 
 
@@ -52,7 +58,8 @@
         "background": "assets/locations/restaurant_inside.png",
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
 
     {
@@ -60,34 +67,39 @@
         "background": "assets/locations/restaurant_inside.png",
         "person1": null,
         "person2":  "assets/charakter/pack_normal.png",
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "I wonder how he is",
         "background": "assets/locations/restaurant_inside.png",
         "person1": null,
         "person2":  "assets/charakter/pack_normal.png",
-        "optional": null
+        "optional": null,
+        "active": "person2"
     },
     {
         "text": "Im a bit nervous ",
         "background": "assets/locations/restaurant_inside.png",
         "person1": null,
         "person2":  "assets/charakter/pack_laught.png",
-        "optional": null
+        "optional": null,
+        "active": "person2"
     },
     {
         "text": "Oh.. I think he is",
         "background": "assets/locations/restaurant_inside.png",
         "person1": null,
         "person2":  "assets/charakter/pack_suprised.png",
-        "optional": null
+        "optional": null,
+        "active": "person2"
     },
     {
         "text": "Hello, are you pack?",
         "background": "assets/locations/restaurant_inside.png",
         "person1": "assets/charakter/pack_normal.png",
         "person2":  "assets/charakter/pack_suprised.png",
-        "optional": null
+        "optional": null,
+        "active": "person1"
     }
 ]

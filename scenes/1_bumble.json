@@ -6,77 +6,88 @@
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "She notices her phone rangs",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "...",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": null
     },
     {
         "text": "We got a match ...",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_suprised.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": "person2"
     },
     {
         "text": "What should I Text",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": "person2"
     },
     {
         "text": "Hello Patrick, descripe yourselfe with an emojy!",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_laught.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": "person2"
     },
     {
         "text": "...",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "Phone rang again",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "A answer? This was fast!",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_suprised.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": "person2"
     },
     {
         "text": "He Texted an work emojy",
         "background": "assets/locations/rama9.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": "person2"
     },
     {
         "text": "Oh no I need to hurry! Pilates class will start soon!",
         "background": null,
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": "person2"
     },
 
 
@@ -87,70 +98,80 @@
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "He noticed his phone rang",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "...",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": null
     },
     {
         "text": "She answered me with an smile emojy",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_suprised.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": "person1"
     },
     {
         "text": "...",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": null
     },
     {
         "text": "Let's ask her for a Date!",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_laught.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": "pack"
     },
     {
         "text": "hmm...",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": "person1"
     },
     {
         "text": "But where to go. I don't know the good restaurants here",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_awkward.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": "person1"
     },
     {
         "text": "Let's check google maps",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": "person1"
     },
     {
         "text": "This looks good!",
         "background": null,
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": "person1"
     },
 
 

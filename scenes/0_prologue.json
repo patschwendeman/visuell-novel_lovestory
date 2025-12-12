@@ -6,56 +6,64 @@
         "background": "assets/locations/tempel.png",
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "Pack decided to try one last time",
         "background": "assets/locations/flat_pack.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "And start to swipe",
         "background": "assets/locations/flat_pack.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_smartphone.png"
+        "optional": "assets/optional/pack_smartphone.png",
+        "active": null
     },
     {
         "text": "And swipe left ..",
         "background": "assets/locations/flat_pack.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_smartphone.png"
+        "optional": "assets/optional/pack_smartphone.png",
+        "active": null
     },
     {
         "text": "And swipe left ..",
         "background": "assets/locations/flat_pack.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_smartphone.png"
+        "optional": "assets/optional/pack_smartphone.png",
+        "active": null
     },
     {
         "text": "..",
         "background": "assets/locations/flat_pack.png",
         "person1": null,
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": null
     },
     {
         "text": "..",
         "background": "assets/locations/flat_pack.png",
         "person1": null,
         "person2": "assets/charakter/pack_suprised.png",
-        "optional": "assets/optional/pack_bumble_match.png"
+        "optional": "assets/optional/pack_bumble_match.png",
+        "active": null
     },
     {
         "text": "swipe right",
         "background": null,
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
 
 
@@ -66,62 +74,71 @@
         "background": "assets/locations/airplane.png",
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "Patrick decided to try",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     },
     {
         "text": "Patrick start to swipe",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png"
+        "optional": "assets/optional/patrick_smartphone.png",
+        "active": null
     },
     {
         "text": "and swipe left",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png"
+        "optional": "assets/optional/patrick_smartphone.png",
+        "active": null
     },
     {
         "text": "and swipe left",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png"
+        "optional": "assets/optional/patrick_smartphone.png",
+        "active": null
     },
     {
         "text": "and swipe left",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png"
+        "optional": "assets/optional/patrick_smartphone.png",
+        "active": null
     },
     {
         "text": "...",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": null
     },
     {
         "text": "...",
         "background": "assets/locations/flat_patrick.png",
         "person1": "assets/charakter/patrick_suprised.png",
         "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png"
+        "optional": "assets/optional/patrick_bumble_match.png",
+        "active": null
     },
     {
         "text": "swipe right",
         "background": null,
         "person1": null,
         "person2": null,
-        "optional": null
+        "optional": null,
+        "active": null
     }
 ]
