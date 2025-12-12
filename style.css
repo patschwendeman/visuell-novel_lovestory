@@ -84,10 +84,10 @@ html, body {
   border-top-left-radius: 10px;
 }
 #person_1_label{
-  left: 40px;
+  left: 85px;
 }
 #person_2_label{
-  right: 40px;
+  right: 85px;
 }
 
 
@@ -102,8 +102,8 @@ html, body {
 }
 
 #textbox {
-  left: 12px;
-  right: 12px;
+  left: 50px;
+  right: 50px;
   position: absolute;
   bottom: 12px;
   border-radius: 10px;
