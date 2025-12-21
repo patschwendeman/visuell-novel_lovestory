@@ -1,0 +1,282 @@
+[
+    {
+        "_comment": "--------------- 2.1 Restaurant Date - outside ---------------------",
+
+        "text": "Later on the same evening ...",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Here is it.",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "Looks great!",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Im a bit nervous ...",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "I wonder if she is already inside... Let's go in!",
+        "background": "assets/locations/restaurant_outside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+
+
+    {
+        "_comment": "--------------- 2.2 Restaurant Date - inside ---------------------",
+
+        "text": "*Inside in the Restaurant*",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+
+    {
+        "text": "...",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "I wonder how he is",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Im a bit nervous ",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Oh.. I think he is",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Hello, are you pack?",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": "person1"
+    },
+     {
+        "text": "Hello, .... yes. Im Pack",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Are you Patrick?",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        ",active": "person2"
+    },
+    {
+        "text": "Yes, Im Patrock",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person1"
+    },
+
+
+    {
+        "_comment": "--------------- 2.3 Restaurant Date - order ---------------------",
+
+        "text": "Both ordered ",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Sawadee krap! I take a water and sushi.",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Khop khun krap.",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Sawa...   ...dee.....    ...kap.",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "I would like to take a Singha and the soup... And No. 5",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "Maybe I should have ordere aFoot what is easyer to share?",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2":  "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person1"
+    },
+
+
+    {
+        "_comment": "--------------- 2.4 Restaurant Date - first kiss ---------------------",
+
+        "text": "Both had a great time. They talked a lot and decided latzer to walk to the metro together.",
+        "background": "assets/locations/restaurant_inside.png",
+        "person1": null,
+        "person2":  null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "They arrived back in rama9",
+        "background": "assets/locations/rama9_night.png",
+        "person1": null,
+        "person2":  null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "It was a beautiful evenig Pack",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Chai, it was beautiful",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Patrick go a step in Pack direction",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "And give her a kiss on her lips",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2":  "assets/charakter/pack_awkward.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Bye I text you..",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2":  "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/rama9_night.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Bye, we do!",
+        "background": "assets/locations/rama9_night.png",
+        "person1": null,
+        "person2":  "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "...",
+        "background": null,
+        "person1": null,
+        "person2":  null,
+        "optional": null,
+        "active": null
+    }
+    
+]
