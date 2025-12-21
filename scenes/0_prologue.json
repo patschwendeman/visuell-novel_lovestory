@@ -1,6 +1,6 @@
 [
     {
-        "_comment": "--------------- 0.1 Prologue Pack ---------------------",
+        "_comment": "--------------- 0.1 Prologue - Pack ---------------------",
 
         "text": "Pack just arrived from the tempel in hong kong 2 days ago",
         "background": "assets/locations/tempel.png",
@@ -68,7 +68,7 @@
 
 
     {
-        "_comment": "--------------- 0.2 Prologue Patrick ---------------------",
+        "_comment": "--------------- 0.2 Prologue - Patrick ---------------------",
 
         "text": "Patrick just landed in Thailand from his long flight from germany",
         "background": "assets/locations/airplane.png",
