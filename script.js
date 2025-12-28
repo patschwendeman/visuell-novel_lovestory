@@ -3,10 +3,11 @@ let currentScene = 1;
 
 async function loadAllScenes() {
   const files = [
-    "scenes/0_prologue.json",
-    "scenes/1_bumble.json",
-    "scenes/2_restaurant_date.json",
-    "scenes/3_light-festival_date.json"
+    //"scenes/0_prologue.json",
+    //"scenes/1_bumble.json",
+    //"scenes/2_restaurant_date.json",
+    //"scenes/3_light-festival_date.json",
+    "scenes/4_photo-booth_date.json",
   ];
 
   const loaded = await Promise.all(
@@ -51,7 +52,9 @@ function showIMG(src, element) {
 }
 
 function hideIMG(element) {
-  document.getElementById(element).style.opacity = 0;
+  const el = document.getElementById(element);
+  el.style.opacity = 0;
+  el.src = null;
 }
 
 function handleLabel(activePerson) {

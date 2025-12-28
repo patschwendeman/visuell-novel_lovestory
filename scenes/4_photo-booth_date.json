@@ -1,0 +1,93 @@
+[
+    {
+        "_comment": "--------------- 4.1 Photo Booth Date - rama 9 outside ---------------------",
+
+        "text": "They decide to have a sponat day in the mall befor there regular date on the next day",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "It was a rainy day",
+        "background": "assets/locations/rama9_rain.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "When Patrick arrived at rama 9, he was completly wet.",
+        "background": "assets/locations/rama9_rain.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "But it was hot too on that day. The clothes should try fast",
+        "background": "assets/locations/rama9_rain.png",
+        "person1": null,
+        "person2": "assets/charakter/patrick_normal.png",
+        "optional": null,
+        "active": null
+    },
+
+    {
+        "_comment": "--------------- 4.2 Photo Booth Date - rama 9 Photo Booth ---------------------",
+
+        "text": "They deside to have a walk in the mall",
+        "background": "assets/locations/mall.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "They played in a Arcade Room some games like Air Hokey",
+        "background": "assets/locations/mall.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "They saw a photo Booth",
+        "background": "assets/locations/mall.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "They saw a photo Booth",
+        "background": "assets/locations/mall.png",
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/photo_booth.png",
+        "active": null
+    },
+    
+    
+     
+
+    {
+        "_comment": "--------------- 4.3 Photo Booth Date - rama 9 cinema RED ---------------------",
+
+        "text": "It was a rainy day",
+        "background": "assets/locations/mall.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "They deside to go to the cinema and have a walk after in the mall",
+        "background": "assets/locations/mall.png",
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/poster.png",
+        "active": null
+    }
+]
