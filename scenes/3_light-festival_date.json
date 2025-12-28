@@ -2,7 +2,7 @@
     {
         "_comment": "--------------- 3.1 Light Festival Date - weed field ---------------------",
 
-        "text": "Patrick and Pack decided to meet again a fewe days later at the light festival.",
+        "text": "Patrick and Pack decided to meet again a fewe days later at the light festival again",
         "background": "assets/locations/light_festival.png",
         "person1": null,
         "person2": null,
@@ -12,18 +12,58 @@
     {
         "text": "Here is it.",
         "background": "assets/locations/light_festival.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Wooooow...",
+        "background": "assets/locations/light_festival.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/charakter/patrick_suprised.png",
+        "active": "person1"
+    },
+    {
+        "text": "Suay makmak krap",
+        "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Lets's sit on the ground and enjoy the light show",
+        "background": "assets/locations/light_festival.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": "person1"
     },
     {
-        "text": "First Picture",
+        "text": "Sure",
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": "person1"
+    },
+    {
+        "text": "Patrick take off his phone and took the first photo of them",
+        "background": "assets/locations/light_festival.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/light_festival.png",
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/polaroid_first.png",
+        "active": null
     },
 
 
@@ -43,7 +83,7 @@
         "background": "assets/locations/light_festival.png",
         "person1": null,
         "person2": null,
-        "optional": "Polaroid",
+        "optional": "assets/optional/polaroid_couple.png",
         "active": null
     },
     {
@@ -51,7 +91,7 @@
         "background": "assets/locations/light_festival.png",
         "person1": null,
         "person2": null,
-        "optional": "Polaroid",
+        "optional": "assets/optional/polaroid_couple.png",
         "active": null
     },
     {
@@ -59,7 +99,7 @@
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_awkward.png",
         "person2": "assets/charakter/pack_awkward.png",
-        "optional": "Polaroid",
+        "optional": "assets/optional/polaroid_couple.png",
         "active": null
     },
     {
@@ -161,7 +201,7 @@
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_suprised.png",
         "person2": "assets/charakter/pack_normal.png",
-        "optional": null,
+        "optional": "assets/optional/cat.png",
         "active": null
     },
     {
