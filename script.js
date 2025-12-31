@@ -3,11 +3,12 @@ let currentScene = 1;
 
 async function loadAllScenes() {
   const files = [
-    //"scenes/0_prologue.json",
-    //"scenes/1_bumble.json",
-    //"scenes/2_restaurant_date.json",
-    //"scenes/3_light-festival_date.json",
+    "scenes/0_prologue.json",
+    "scenes/1_bumble.json",
+    "scenes/2_restaurant_date.json",
+    "scenes/3_light-festival_date.json",
     "scenes/4_photo-booth_date.json",
+    "scenes/5_rooftop_date.json",
   ];
 
   const loaded = await Promise.all(
