@@ -1,0 +1,274 @@
+[
+    {
+        "_comment": "--------------- 5.1 Rooftop Date - Mexican Restauran Terminal ---------------------",
+
+        "text": "Patrick and Pack meet at Terminal 21",
+        "background": "assets/locations/terminal21.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "They decide to have a mexican dinner and went back to the codor of patrick",
+        "background": "assets/locations/terminal21.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "_comment": "--------------- 5.2 Rooftop Date - First real kiss---------------------",
+
+        "text": "Back in the Codor they went to the roof top where they can see the hole coty",
+        "background": "assets/locations/rooftop.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "I relly like this place. The view is so beautiful",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "Chai! suay makmak",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+
+        "text": "They enjoyed the view an opend a beer",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "Patrick comes closer to Pack...",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "... And kissed here..",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "It was there first real kiss",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "Patrick put Pack on his laps and contineau kissing",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "_comment": "--------------- 5.3 Rooftop Date - Cockroach ---------------------",
+
+        "text": "After a while she started to Scraming out of nothing",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "A Cockroach appiered behind the and run unto there direction",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": "assets/charakter/pack_awkward.png",
+        "optional": "assets/optional/Cockroach2.png",
+        "active": null
+    },
+    {
+        "text": "The Cockroach come close ...",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": "assets/charakter/pack_awkward.png",
+        "optional": "assets/optional/Cockroach3.png",
+        "active": null
+    },
+    {
+        "text": ".. And flew away",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": "assets/charakter/pack_awkward.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "HAHAHAHA",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "_comment": "--------------- 5.4 Rooftop Date - Allmost Fin ---------------------",
+
+        "text": "They sit for a long time",
+        "background": "assets/locations/rooftop.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "It's late and you have to go to puket tomorrow",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "Chai but it's probably out last chance to meet",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "After a while they decide to go in as a hotel security appears",
+        "background": "assets/locations/rooftop.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Security: Drinking and Eating on this part of the hotel is not allowed",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_suprised",
+        "person2": "assets/charakter/pack_suprised",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "The security pointed with the finger on a sighn who say 10.000 baht fine",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Pack is starting to talk thai to the security ans managed it was just a warning",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": null
+    },
+    {
+        "_comment": "--------------- 5.4 Rooftop Date - Farewall Walk ---------------------",
+
+        "text": "It was really late when Patrick walked with Pack home",
+        "background": "assets/locations/rama9_night",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "*I feel really bad. She must get up in 3 hours..*",
+        "background": "assets/locations/rama9_night",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+    {
+
+        "text": "Pack started crying.",
+        "background": "assets/locations/rama9_night",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "*It's our last time... why?*",
+        "background": "assets/locations/rama9_night",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "They arrived at Packs condor",
+        "background": "assets/locations/rama9_night",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "I swera you I will come back! We will meet again!",
+        "background": "assets/locations/rama9_night",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+
+        "text": "Please krap",
+        "background": "assets/locations/rama9_night",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+
+        "text": "They stand for a long time and both say farewell with hope",
+        "background": "assets/locations/rama9_night",
+        "person1": "assets/charakter/patrick_normal",
+        "person2": "assets/charakter/pack_normal",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": ".. but not knowing if they ever will see again",
+        "background": "assets/locations/rama9_night",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    }
+
+]
