@@ -65,13 +65,37 @@
         "optional": "assets/optional/polaroid_first.png",
         "active": null
     },
+    {
+        "text": "Our first Picture",
+        "background": "assets/locations/light_festival.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/polaroid_first.png",
+        "active": "person1"
+    },
+    {
+        "text": "Chai krap",
+        "background": "assets/locations/light_festival.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/polaroid_first.png",
+        "active": "person2"
+    },
+    {
+        "text": "Chai krap",
+        "background": "assets/locations/light_festival.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/optional/polaroid_first.png",
+        "active": "person2"
+    },
 
 
 
     {
         "_comment": "--------------- 3.2 Light Festival Date - cute couple picture ---------------------",
 
-        "text": "...1, ...3, ...3",
+        "text": "They saw a big light Ball and decide to com ecloser",
         "background": "assets/locations/light_festival.png",
         "person1": null,
         "person2": null,
@@ -79,7 +103,31 @@
         "active": null
     },
     {
+        "text": "Hey, there you can take a picture!",
+        "background": "assets/locations/light_festival.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/polaroid_couple.png",
+        "active": "person2"
+    },
+    {
         "text": "...",
+        "background": "assets/locations/light_festival.png",
+        "person1": "assets/charakter/patrick_noemal.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/optional/polaroid_couple.png",
+        "active": null
+    },
+    {
+        "text": "Let's go",
+        "background": "assets/locations/light_festival.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/optional/polaroid_couple.png",
+        "active": "person1"
+    },
+    {
+        "text": "Potographer: 3.... 2... 1...",
         "background": "assets/locations/light_festival.png",
         "person1": null,
         "person2": null,
@@ -107,22 +155,22 @@
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_laught.png",
         "person2": "assets/charakter/pack_laught.png",
-        "optional": "Polaroid",
+        "optional": "assets/optional/polaroid_couple.png",
         "active": null
     },
     {
-        "text": "",
+        "text": "Let's go to the next spot",
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "Polaroid",
-        "active": null
+        "optional": null,
+        "active": "person1"
     },
 
     {
         "_comment": "--------------- 3.3 Light Festival Date - dog picture? ---------------------",
 
-        "text": "..",
+        "text": "They saw some kind of a screen and they come closer",
         "background": "assets/locations/light_festival.png",
         "person1": null,
         "person2": null,
@@ -130,20 +178,20 @@
         "active": null
     },
     {
-        "text": "...",
+        "text": "Look you can draw something and it will shown there",
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_suprised.png",
         "optional": null,
-        "active": null
+        "active": "person1"
     },
     {
-        "text": "Look there we can draw sommething! Let's go",
+        "text": "Sounds Fun! Let's go",
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_suprised.png",
         "person2": "assets/charakter/pack_laught.png",
         "optional": null,
-        "active": "person2"
+        "active": "person1"
     },
     {
         "text": "Wooow",
@@ -166,7 +214,7 @@
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
-        "optional": "dog image",
+        "optional": "assets/optional/drawing.png",
         "active": "person1"
     },
     {
@@ -174,7 +222,7 @@
         "background": "assets/locations/light_festival.png",
         "person1": "assets/charakter/patrick_laught.png",
         "person2": "assets/charakter/pack_laught.png",
-        "optional": "dog image",
+        "optional": "assets/optional/drawing.png",
         "active": "person1"
     },
 
@@ -226,7 +274,7 @@
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
         "optional": null,
-        "active": "null"
+        "active": null
     },
     {
         "text": "Woow Pack is realy a kind person. Im so lucky I found a girl like her",
