@@ -2,7 +2,7 @@
     {
         "_comment": "--------------- 4.1 Photo Booth Date - rama 9 outside ---------------------",
 
-        "text": "They decide to have a sponat day in the mall befor there regular date on the next day",
+        "text": "They decide to have a spontan day in the mall befor there regular date on the next day",
         "background": null,
         "person1": null,
         "person2": null,
@@ -45,7 +45,31 @@
         "active": null
     },
     {
-        "text": "They played in a Arcade Room some games like Air Hokey",
+        "text": "Look there is a arcade hall.",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Let's play!",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "Go krap",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/pack_laught.png",
+        "person2": "assets/charakter/patrick_laught.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "They played air hokey and tried to get a teddy out of the box",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
@@ -53,7 +77,31 @@
         "active": null
     },
     {
-        "text": "They saw a photo Booth",
+        "text": "This was so much fun!",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "Look, There is a photo Booth!",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "I want to take a photo!!",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "They entered the foto booth",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
@@ -61,12 +109,36 @@
         "active": null
     },
     {
-        "text": "They saw a photo Booth",
+        "text": "...",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
         "optional": "assets/optional/photo_booth.png",
         "active": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": "assets/optional/photo_booth.png",
+        "active": null
+    },
+    {
+        "text": "...",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/photo_booth.png",
+        "active": null
+    },
+    {
+        "text": "narak!",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": "assets/optional/photo_booth.png",
+        "active": "person1"
     },
     
     
@@ -75,7 +147,7 @@
     {
         "_comment": "--------------- 4.3 Photo Booth Date - rama 9 cinema RED ---------------------",
 
-        "text": "It was a rainy day",
+        "text": "Last stop on that day was in the cidema",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
@@ -83,11 +155,19 @@
         "active": null
     },
     {
-        "text": "They deside to go to the cinema and have a walk after in the mall",
+        "text": "...",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
         "optional": "assets/optional/poster.png",
         "active": null
+    },
+    {
+        "text": "Looks interesting makmak",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/poster.png",
+        "active": "person2"
     }
 ]
