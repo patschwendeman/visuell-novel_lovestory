@@ -1,0 +1,255 @@
+[
+    {
+        "_comment": "--------------- 6.1 Exhibition Date - Patrick traveling ---------------------",
+
+        "text": "Patrick contineaued travelling in thailand. Thinking all the time about Pack",
+        "background": "assets/locations/chiangmai.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Will he ever see her again?",
+        "background": "assets/locations/chiangmai.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "He must belive!",
+        "background": "assets/locations/chiangmai.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+     {
+        "_comment": "--------------- 6.2 Exhibition Date - Pack Phuket ---------------------",
+
+        "text": "Pack flied to Phuket for working with way to less sleep.",
+        "background": "assets/locations/airplane.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "But she doesn't care. She only thinks about him",
+        "background": "assets/locations/airplane.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "But she doesn't care. She only thinks about him",
+        "background": "assets/locations/airplane.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+
+     {
+        "_comment": "--------------- 6.3 Exhibition Date - Meet again ---------------------",
+
+        "text": "After one week Patrick decide to go back bangkok more early so he can see her another time",
+        "background": "assets/locations/terminal21.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+     {
+        "text": "They decide to meet at a exhibition in bangkok",
+        "background": "assets/locations/terminal21.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+     {
+        "_comment": "--------------- 6.4 Exhibition Date - Exhibition Date ---------------------",
+
+        "text": "Pack was waiting, nervous seeing him again",
+        "background": "assets/locations/art_exhibition.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "She can not belife they will se again",
+        "background": "assets/locations/art_exhibition.png",
+        "person1": null,
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Suddently he apperas",
+        "background": "assets/locations/art_exhibition.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Pack jump an patrick an fall in his arms",
+        "background": "assets/locations/art_exhibition.png",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": null
+    },
+     {
+        "text": "Both are so happy",
+        "background": "assets/locations/art_exhibition.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "They had a great time",
+        "background": "assets/locations/art_exhibition.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "And decided to go to a more quite place",
+        "background": "assets/locations/art_exhibition.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "_comment": "--------------- 6.5 Exhibition Date - Condor ---------------------",
+
+        "text": "They booked a hostel room for a day",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "And had a few relaxed hours",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "The hours passed by and they decide slowly it's time to pack the stuff",
+        "background": "assets/locations/flat_pack.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "As Patrick wear on his shirt again he could feel that his elbow rushed into something",
+        "background": "assets/locations/flat_pack.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "KRRRRRK...",
+        "background": "assets/locations/flat_pack.png",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Pack made a quite sound as he realized he hit her nose wirth his elbow",
+        "background": "assets/locations/flat_pack.png",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "He was shocked...",
+        "background": "assets/locations/flat_pack.png",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": "assets/charakter/pack_suprised.png",
+        "optional": null,
+        "active": null
+    },
+     {
+        "text": "No it's ok you didn't hur me!",
+        "background": "assets/locations/flat_pack.png",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "But he could see the tears in her eyes..",
+        "background": "assets/locations/flat_pack.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "He felt bad for it",
+        "background": "assets/locations/flat_pack.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "_comment": "--------------- 6.6 Exhibition Date - Real Farewell at the airport ---------------------",
+
+        "text": "Pack and Patrick made there way to the aitport. Pack wanted to come with patrick and spend as much time as possible with him",
+        "background": "assets/locations/airport.png",
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Both know this time it's real farewell",
+        "background": "assets/locations/airport.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "But they know also they spend a lot of time today planning there next date",
+        "background": "assets/locations/airport.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Even both can not be 100% sure at the moment.",
+        "background": "assets/locations/airport.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Soon they will be prooft right",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    }
+]
