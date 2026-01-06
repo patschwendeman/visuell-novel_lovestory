@@ -1,0 +1,77 @@
+[
+    {
+        "_comment": "--------------- 7 Epilogue ---------------------",
+
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/1.png",
+        "active": null
+    },
+     {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/2.png",
+        "active": null
+    },
+    {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/3.png",
+        "active": null
+    },
+    {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/4.png",
+        "active": null
+    },
+     {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/5.png",
+        "active": null
+    },
+    {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/6.png",
+        "active": null
+    },
+    {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/7.png",
+        "active": null
+    },
+     {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/8.png",
+        "active": null
+    },
+    {
+        "text": null,
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": "assets/optional/diashow/9.png",
+        "active": null
+    }
+
+]
