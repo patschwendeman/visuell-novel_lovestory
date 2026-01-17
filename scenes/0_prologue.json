@@ -1,144 +1,167 @@
 [
-    {
-        "_comment": "--------------- 0.1 Prologue - Pack ---------------------",
+  {
+    "_comment": "--------------- 0.1 Prologue - Pack ---------------------",
 
-        "text": "Pack just arrived from the tempel in hong kong 2 days ago",
-        "background": "assets/locations/tempel.png",
-        "person1": null,
-        "person2": null,
-        "optional": null,
-        "active": null
-    },
-    {
-        "text": "Pack decided to try one last time",
-        "background": "assets/locations/flat_pack.png",
-        "person1": null,
-        "person2": "assets/charakter/pack_normal.png",
-        "optional": null,
-        "active": null
-    },
-    {
-        "text": "And start to swipe",
-        "background": "assets/locations/flat_pack.png",
-        "person1": null,
-        "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_smartphone.png",
-        "active": null
-    },
-    {
-        "text": "And swipe left ..",
-        "background": "assets/locations/flat_pack.png",
-        "person1": null,
-        "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_smartphone.png",
-        "active": null
-    },
-    {
-        "text": "And swipe left ..",
-        "background": "assets/locations/flat_pack.png",
-        "person1": null,
-        "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_smartphone.png",
-        "active": null
-    },
-    {
-        "text": "..",
-        "background": "assets/locations/flat_pack.png",
-        "person1": null,
-        "person2": "assets/charakter/pack_normal.png",
-        "optional": "assets/optional/pack_bumble_match.png",
-        "active": null
-    },
-    {
-        "text": "..",
-        "background": "assets/locations/flat_pack.png",
-        "person1": null,
-        "person2": "assets/charakter/pack_suprised.png",
-        "optional": "assets/optional/pack_bumble_match.png",
-        "active": null
-    },
-    {
-        "text": "swipe right",
-        "background": null,
-        "person1": null,
-        "person2": null,
-        "optional": null,
-        "active": null
-    },
+    "text": "This is the story of a Thai girl named Pack and a German guy named Patrick. They were living very different lives, far away from each other. Different countries. Different cultures. Different worlds. But sometimes, all it takes is the right moment…",
+    "background": null,
+    "person1": null,
+    "person2": null,
+    "optional": null,
+    "active": null
+  },
+  {
+    "text": "Pack had just returned from a temple in Hong Kong two days ago. She had been there to pray, praying to meet a kind and lovely person.",
+    "background": "assets/locations/tempel.png",
+    "person1": null,
+    "person2": null,
+    "optional": null,
+    "active": null
+  },
+  {
+    "text": "Now she was back in her apartment in Bangkok, thinking to herself…",
+    "background": "assets/locations/flat_pack.png",
+    "person1": null,
+    "person2": "assets/charakter/pack_normal.png",
+    "optional": null,
+    "active": "person2"
+  },
+  {
+    "text": "(Okay… let’s give it one last try. If it doesn’t work this time, I’ll delete this app forever!)",
+    "background": "assets/locations/flat_pack.png",
+    "person1": null,
+    "person2": "assets/charakter/pack_normal.png",
+    "optional": null,
+    "active": "person2"
+  },
+  {
+    "text": "She started swiping.",
+    "background": "assets/locations/flat_pack.png",
+    "person1": null,
+    "person2": "assets/charakter/pack_normal.png",
+    "optional": "assets/optional/pack_smartphone.png",
+    "active": null
+  },
+  {
+    "text": "And swiped left…",
+    "background": "assets/locations/flat_pack.png",
+    "person1": null,
+    "person2": "assets/charakter/pack_normal.png",
+    "optional": "assets/optional/pack_smartphone.png",
+    "active": null
+  },
+  {
+    "text": "And swiped left...",
+    "background": "assets/locations/flat_pack.png",
+    "person1": null,
+    "person2": "assets/charakter/pack_normal.png",
+    "optional": "assets/optional/pack_smartphone.png",
+    "active": null
+  },
+  {
+    "text": "...",
+    "background": "assets/locations/flat_pack.png",
+    "person1": null,
+    "person2": "assets/charakter/pack_normal.png",
+    "optional": "assets/optional/pack_bumble_match.png",
+    "active": null
+  },
+  {
+    "text": "...",
+    "background": "assets/locations/flat_pack.png",
+    "person1": null,
+    "person2": "assets/charakter/pack_suprised.png",
+    "optional": "assets/optional/pack_bumble_match.png",
+    "active": null
+  },
+  {
+    "text": "swiped right!",
+    "background": null,
+    "person1": null,
+    "person2": null,
+    "optional": null,
+    "active": null
+  },
 
+  {
+    "_comment": "--------------- 0.2 Prologue - Patrick ---------------------",
 
-    {
-        "_comment": "--------------- 0.2 Prologue - Patrick ---------------------",
-
-        "text": "Patrick just landed in Thailand from his long flight from germany",
-        "background": "assets/locations/airplane.png",
-        "person1": null,
-        "person2": null,
-        "optional": null,
-        "active": null
-    },
-    {
-        "text": "Patrick decided to try",
-        "background": "assets/locations/flat_patrick.png",
-        "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
-        "optional": null,
-        "active": null
-    },
-    {
-        "text": "Patrick start to swipe",
-        "background": "assets/locations/flat_patrick.png",
-        "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png",
-        "active": null
-    },
-    {
-        "text": "and swipe left",
-        "background": "assets/locations/flat_patrick.png",
-        "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png",
-        "active": null
-    },
-    {
-        "text": "and swipe left",
-        "background": "assets/locations/flat_patrick.png",
-        "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png",
-        "active": null
-    },
-    {
-        "text": "and swipe left",
-        "background": "assets/locations/flat_patrick.png",
-        "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
-        "optional": "assets/optional/patrick_smartphone.png",
-        "active": null
-    },
-    {
-        "text": "...",
-        "background": "assets/locations/flat_patrick.png",
-        "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png",
-        "active": null
-    },
-    {
-        "text": "...",
-        "background": "assets/locations/flat_patrick.png",
-        "person1": "assets/charakter/patrick_suprised.png",
-        "person2": null,
-        "optional": "assets/optional/patrick_bumble_match.png",
-        "active": null
-    },
-    {
-        "text": "swipe right",
-        "background": null,
-        "person1": null,
-        "person2": null,
-        "optional": null,
-        "active": null
-    }
+    "text": "Patrick had just landed in Thailand after a long flight from Germany. New country. New city. Everything felt unfamiliar and strangely exciting at the same time.",
+    "background": "assets/locations/airplane.png",
+    "person1": null,
+    "person2": null,
+    "optional": null,
+    "active": null
+  },
+  {
+    "text": "Later that evening, Patrick arrived at his apartment. His friend had gone out. It was quiet. Empty. Just him and his thoughts.",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_normal.png",
+    "person2": null,
+    "optional": null,
+    "active": null
+  },
+  {
+    "text": "(Hmm… okay. Maybe I should give this dating app another try in a different country.)",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_normal.png",
+    "person2": null,
+    "optional": null,
+    "active": "person1"
+  },
+  {
+    "text": "Patrick started swiping.",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_normal.png",
+    "person2": null,
+    "optional": "assets/optional/patrick_smartphone.png",
+    "active": null
+  },
+  {
+    "text": "and swiped left...",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_normal.png",
+    "person2": null,
+    "optional": "assets/optional/patrick_smartphone.png",
+    "active": null
+  },
+  {
+    "text": "and swiped left...",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_normal.png",
+    "person2": null,
+    "optional": "assets/optional/patrick_smartphone.png",
+    "active": null
+  },
+  {
+    "text": "and swiped left...",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_normal.png",
+    "person2": null,
+    "optional": "assets/optional/patrick_smartphone.png",
+    "active": null
+  },
+  {
+    "text": "...",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_normal.png",
+    "person2": null,
+    "optional": "assets/optional/patrick_bumble_match.png",
+    "active": null
+  },
+  {
+    "text": "...",
+    "background": "assets/locations/flat_patrick.png",
+    "person1": "assets/charakter/patrick_suprised.png",
+    "person2": null,
+    "optional": "assets/optional/patrick_bumble_match.png",
+    "active": null
+  },
+  {
+    "text": "He swiped right.",
+    "background": null,
+    "person1": null,
+    "person2": null,
+    "optional": null,
+    "active": null
+  }
 ]

@@ -3,18 +3,18 @@ let currentScene = 1;
 
 async function loadAllScenes() {
   const files = [
-    //"scenes/0_prologue.json",
-    //"scenes/1_bumble.json",
-    //"scenes/2_restaurant_date.json",
-    //"scenes/3_light-festival_date.json",
-    //"scenes/4_photo-booth_date.json",
-    //"scenes/5_rooftop_date.json",
-    //"scenes/6_exhibition_date.json",
+    "scenes/0_prologue.json",
+    "scenes/1_bumble.json",
+    "scenes/2_restaurant_date.json",
+    "scenes/3_light-festival_date.json",
+    "scenes/4_photo-booth_date.json",
+    "scenes/5_rooftop_date.json",
+    "scenes/6_exhibition_date.json",
     "scenes/7_epilogue.json",
   ];
 
   const loaded = await Promise.all(
-    files.map(file => fetch(file).then(res => res.json()))
+    files.map((file) => fetch(file).then((res) => res.json())),
   );
 
   scenes = loaded.flat();
@@ -69,37 +69,33 @@ function handleLabel(activePerson) {
 }
 
 function loadScene(index) {
-  
   const nextBtn = document.getElementById("nextBtn");
-  /* nextBtn.disabled = true;  */      // Button deaktivieren
+  nextBtn.disabled = true; // Button deaktivieren
   nextBtn.style.opacity = 0.5;
 
   const scene = scenes[index];
   currentScene = index;
 
-  handleLabel(scene.active)
+  handleLabel(scene.active);
 
-  document.getElementById("background").style.backgroundImage = 
-    scene.background ? `url('${scene.background}')` : "none";
+  document.getElementById("background").style.backgroundImage = scene.background
+    ? `url('${scene.background}')`
+    : "none";
 
   if (scene.person1) {
     showIMG(scene.person1, "person_1");
-    }
-  else {
+  } else {
     hideIMG("person_1");
-    }
+  }
 
   if (scene.person2) {
     showIMG(scene.person2, "person_2");
-    }
-  else {
+  } else {
     hideIMG("person_2");
-    }
+  }
 
   if (scene.optional) showIMG(scene.optional, "optional");
   else hideIMG("optional");
-
-  
 
   typeWriter(scene.text, document.getElementById("text"), 35, () => {
     nextBtn.disabled = false;
