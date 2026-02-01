@@ -2,15 +2,7 @@
     {
         "_comment": "--------------- 4.1 Photo Booth Date - rama 9 outside ---------------------",
 
-        "text": "They decide to have a spontan day in the mall befor there regular date on the next day",
-        "background": null,
-        "person1": null,
-        "person2": null,
-        "optional": null,
-        "active": null
-    },
-    {
-        "text": "It was a rainy day",
+        "text": "They decided to have a spontaneous day at the mall before their regular date the next day.",
         "background": "assets/locations/rama9_rain.png",
         "person1": null,
         "person2": null,
@@ -18,7 +10,7 @@
         "active": null
     },
     {
-        "text": "When Patrick arrived at rama 9, he was completly wet.",
+        "text": "It was a rainy day. When Patrick arrived at Rama 9, he was completely soaked.",
         "background": "assets/locations/rama9_rain.png",
         "person1": null,
         "person2": null,
@@ -26,18 +18,18 @@
         "active": null
     },
     {
-        "text": "But it was hot too on that day. The clothes should try fast",
+        "text": "(I’m happy it’s a hot day. My clothes should dry fast.)",
         "background": "assets/locations/rama9_rain.png",
-        "person1": null,
-        "person2": "assets/charakter/patrick_normal.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
         "optional": null,
-        "active": null
+        "active": "person1"
     },
 
     {
         "_comment": "--------------- 4.2 Photo Booth Date - rama 9 Photo Booth ---------------------",
 
-        "text": "They deside to have a walk in the mall",
+        "text": "First, they went for a walk through the mall.",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
@@ -45,12 +37,12 @@
         "active": null
     },
     {
-        "text": "Look there is a arcade hall.",
+        "text": "Look, there’s an arcade hall!",
         "background": "assets/locations/mall.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
         "optional": null,
-        "active": "person2"
+        "active": "person1"
     },
     {
         "text": "Let's play!",
@@ -63,13 +55,13 @@
     {
         "text": "Go krap",
         "background": "assets/locations/mall.png",
-        "person1": "assets/charakter/pack_laught.png",
-        "person2": "assets/charakter/patrick_laught.png",
+        "person1": "assets/charakter/patrick_laught.png",
+        "person2": "assets/charakter/pack_laught.png",
         "optional": null,
         "active": "person1"
     },
     {
-        "text": "They played air hokey and tried to get a teddy out of the box",
+        "text": "They played air hockey, laughing and getting a little competitive, and then tried their luck at the claw machine, hoping to win a teddy bear.",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
@@ -85,7 +77,7 @@
         "active": "person1"
     },
     {
-        "text": "Look, There is a photo Booth!",
+        "text": "Look, there’s a photo booth!",
         "background": "assets/locations/mall.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_suprised.png",
@@ -101,7 +93,7 @@
         "active": "person2"
     },
     {
-        "text": "They entered the foto booth",
+        "text": "They entered the photo booth.",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
@@ -109,19 +101,11 @@
         "active": null
     },
     {
-        "text": "...",
+        "text": "...3    ...2    ...1!",
         "background": "assets/locations/mall.png",
         "person1": null,
         "person2": null,
-        "optional": "assets/optional/photo_booth.png",
-        "active": null
-    },
-    {
-        "text": "...",
-        "background": "assets/locations/mall.png",
-        "person1": "assets/charakter/patrick_normal.png",
-        "person2": null,
-        "optional": "assets/optional/photo_booth.png",
+        "optional": null,
         "active": null
     },
     {
@@ -133,7 +117,7 @@
         "active": null
     },
     {
-        "text": "narak!",
+        "text": "Narak!",
         "background": "assets/locations/mall.png",
         "person1": "assets/charakter/patrick_laught.png",
         "person2": "assets/charakter/pack_laught.png",
@@ -147,27 +131,43 @@
     {
         "_comment": "--------------- 4.3 Photo Booth Date - rama 9 cinema RED ---------------------",
 
-        "text": "Last stop on that day was in the cidema",
+        "text": "Okay, next stop: the cinema!",
         "background": "assets/locations/mall.png",
-        "person1": null,
-        "person2": null,
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
-        "active": null
+        "active": "person1"
     },
     {
         "text": "...",
         "background": "assets/locations/mall.png",
-        "person1": null,
-        "person2": null,
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": "assets/optional/poster.png",
         "active": null
     },
     {
-        "text": "Looks interesting makmak",
+        "text": "Looks interesting, makmak.",
         "background": "assets/locations/mall.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
         "optional": "assets/optional/poster.png",
         "active": "person2"
+    },
+    {
+        "text": "Let’s go in!",
+        "background": "assets/locations/mall.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": "assets/optional/poster.png",
+        "active": "person1"
+    },
+    {
+        "text": "Both had a great day at the mall together and were already looking forward to meeting again the next day.",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
     }
 ]
