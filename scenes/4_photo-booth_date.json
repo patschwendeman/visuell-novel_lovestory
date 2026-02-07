@@ -29,6 +29,14 @@
     {
         "_comment": "--------------- 4.2 Photo Booth Date - rama 9 Photo Booth ---------------------",
 
+        "text": "Pack already waited for him in the mall entrance.",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
         "text": "First, they went for a walk through the mall.",
         "background": "assets/locations/mall.png",
         "person1": null,
@@ -36,6 +44,7 @@
         "optional": null,
         "active": null
     },
+    
     {
         "text": "Look, there’s an arcade hall!",
         "background": "assets/locations/mall.png",
