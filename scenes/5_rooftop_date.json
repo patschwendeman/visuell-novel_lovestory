@@ -2,7 +2,7 @@
     {
         "_comment": "--------------- 5.1 Rooftop Date - Mexican Restauran Terminal ---------------------",
 
-        "text": "Patrick and Pack meet at Terminal 21",
+        "text": "Today, Pack and Patrick meet at Terminal 21",
         "background": "assets/locations/terminal21.png",
         "person1": null,
         "person2": null,
@@ -10,17 +10,49 @@
         "active": null
     },
     {
-        "text": "They decide to have a mexican dinner and went back to the codor of patrick",
+        "text": "They decide to have a Mexican dinner before heading back to the condo",
         "background": "assets/locations/terminal21.png",
         "person1": null,
         "person2": null,
         "optional": null,
         "active": null
+    },
+    {
+        "text": "I love Mexican food!",
+        "background": "assets/locations/terminal21.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": null,
+        "optional": null,
+        "active": "person1"
+    },
+    {
+        "text": "(Mexican food is really spicy, but he can handle it)",
+        "background": "assets/locations/terminal21.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+        "text": "(Keng mak)",
+        "background": "assets/locations/terminal21.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_laught.png",
+        "optional": null,
+        "active": "person2"
     },
     {
         "_comment": "--------------- 5.2 Rooftop Date - First real kiss---------------------",
 
-        "text": "Back in the Codor they went to the roof top where they can see the hole coty",
+        "text": "After eating, they went back to Rama 9",
+        "background": null,
+        "person1": null,
+        "person2": null,
+        "optional": null,
+        "active": null
+    },
+    {
+        "text": "Back at the condo, they went up to the rooftop where they could see the whole city",
         "background": "assets/locations/rooftop.png",
         "person1": null,
         "person2": null,
@@ -28,7 +60,7 @@
         "active": null
     },
     {
-        "text": "I relly like this place. The view is so beautiful",
+        "text": "I really like this place. The view is so beautiful",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
@@ -36,7 +68,7 @@
         "active": "person1"
     },
     {
-        "text": "Chai! suay makmak",
+        "text": "Chai! Suay mak mak",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
@@ -45,7 +77,7 @@
     },
     {
 
-        "text": "They enjoyed the view an opend a beer",
+        "text": "They enjoyed the view and opened a beer",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
@@ -54,7 +86,7 @@
     },
     {
 
-        "text": "Patrick comes closer to Pack...",
+        "text": "Patrick moved closer to Pack...",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
@@ -63,7 +95,61 @@
     },
     {
 
-        "text": "... And kissed here..",
+        "text": "(I've never met a girl like her before...)",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+
+        "text": "(It's so sad that this is my last day in Bangkok...)",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+
+        "text": "(... Just don't think too much about it. We will find a way)",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person1"
+    },
+    {
+
+        "text": "(He looks so thoughtful right now...)",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+
+        "text": "(Maybe it's because he is leaving tomorrow...)",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+
+        "text": "Is everything okay, krap?",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": "person2"
+    },
+    {
+
+        "text": "Patrick looked deep into Pack's eyes...",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
@@ -72,7 +158,7 @@
     },
     {
 
-        "text": "It was there first real kiss",
+        "text": "... and kissed her.",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
@@ -81,7 +167,25 @@
     },
     {
 
-        "text": "Patrick put Pack on his laps and contineau kissing",
+        "text": "It was their first real kiss",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "Patrick pulled Pack onto his lap and continued kissing her",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
+        "optional": null,
+        "active": null
+    },
+    {
+
+        "text": "They both enjoyed the moment so much",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
@@ -91,7 +195,7 @@
     {
         "_comment": "--------------- 5.3 Rooftop Date - Cockroach ---------------------",
 
-        "text": "After a while she started to Scraming out of nothing",
+        "text": "After a while, she suddenly started screaming",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_normal.png",
         "person2": "assets/charakter/pack_normal.png",
@@ -99,7 +203,15 @@
         "active": null
     },
     {
-        "text": "A Cockroach appiered behind the and run unto there direction",
+        "text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHH!...",
+        "background": "assets/locations/rooftop.png",
+        "person1": "assets/charakter/patrick_awkward.png",
+        "person2": "assets/charakter/pack_awkward.png",
+        "optional": "assets/optional/Cockroach2.png",
+        "active": "person2"
+    },
+    {
+        "text": "A cockroach appeared behind them and ran in their direction",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_awkward.png",
         "person2": "assets/charakter/pack_awkward.png",
@@ -107,15 +219,15 @@
         "active": null
     },
     {
-        "text": "The Cockroach come close ...",
+        "text": "The cockroach came closer...",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_awkward.png",
         "person2": "assets/charakter/pack_awkward.png",
-        "optional": "assets/optional/Cockroach3.png",
+        "optional": "assets/optional/Cockroach2.png",
         "active": null
     },
     {
-        "text": ".. And flew away",
+        "text": "... and then flew away",
         "background": "assets/locations/rooftop.png",
         "person1": "assets/charakter/patrick_awkward.png",
         "person2": "assets/charakter/pack_awkward.png",
@@ -133,7 +245,7 @@
     {
         "_comment": "--------------- 5.4 Rooftop Date - Allmost Fin ---------------------",
 
-        "text": "They sit for a long time",
+        "text": "They sat there for a long time",
         "background": "assets/locations/rooftop.png",
         "person1": null,
         "person2": null,
@@ -141,23 +253,23 @@
         "active": null
     },
     {
-        "text": "It's late and you have to go to puket tomorrow",
+        "text": "It's late, and you have to go to Phuket tomorrow",
         "background": "assets/locations/rooftop.png",
-        "person1": "assets/charakter/patrick_normal",
+        "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
         "optional": null,
         "active": "person1"
     },
     {
-        "text": "Chai but it's probably out last chance to meet",
+        "text": "Chai, but it's probably our last chance to meet",
         "background": "assets/locations/rooftop.png",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": "person2"
     },
     {
-        "text": "After a while they decide to go in as a hotel security appears",
+        "text": "After a while, they decided to go inside as hotel security appeared",
         "background": "assets/locations/rooftop.png",
         "person1": null,
         "person2": null,
@@ -165,34 +277,34 @@
         "active": null
     },
     {
-        "text": "Security: Drinking and Eating on this part of the hotel is not allowed",
+        "text": "Security: Drinking and eating in this part of the hotel is not allowed",
         "background": "assets/locations/rooftop.png",
-        "person1": "assets/charakter/patrick_suprised",
-        "person2": "assets/charakter/pack_suprised",
+        "person1": "assets/charakter/patrick_suprised.png",
+        "person2": "assets/charakter/pack_suprised.png",
         "optional": null,
         "active": null
     },
     {
-        "text": "The security pointed with the finger on a sighn who say 10.000 baht fine",
+        "text": "The security guard pointed at a sign and said: 2,000 baht fine",
         "background": "assets/locations/rooftop.png",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": null
     },
     {
-        "text": "Pack is starting to talk thai to the security ans managed it was just a warning",
+        "text": "Pack started speaking Thai to the security guard and managed to turn it into just a warning",
         "background": "assets/locations/rooftop.png",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": null
     },
     {
         "_comment": "--------------- 5.4 Rooftop Date - Farewall Walk ---------------------",
 
-        "text": "It was really late when Patrick walked with Pack home",
-        "background": "assets/locations/rama9_night",
+        "text": "It was really late when Patrick walked Pack home",
+        "background": "assets/locations/rama9_night.png",
         "person1": null,
         "person2": null,
         "optional": null,
@@ -200,9 +312,9 @@
     },
     {
 
-        "text": "*I feel really bad. She must get up in 3 hours..*",
-        "background": "assets/locations/rama9_night",
-        "person1": "assets/charakter/patrick_normal",
+        "text": "(I feel really bad. She has to get up in three hours...)",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
         "person2": null,
         "optional": null,
         "active": "person1"
@@ -210,61 +322,61 @@
     {
 
         "text": "Pack started crying.",
-        "background": "assets/locations/rama9_night",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": null
     },
     {
 
-        "text": "*It's our last time... why?*",
-        "background": "assets/locations/rama9_night",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "text": "(It's our last time... why?)",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": null
     },
     {
 
-        "text": "They arrived at Packs condor",
-        "background": "assets/locations/rama9_night",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "text": "They arrived at Pack's condo",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": null
     },
     {
 
-        "text": "I swera you I will come back! We will meet again!",
-        "background": "assets/locations/rama9_night",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "text": "I swear to you, I will come back! We will meet again!",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": "person1"
     },
     {
 
-        "text": "Please krap",
-        "background": "assets/locations/rama9_night",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "text": "Please, krap",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": "person2"
     },
     {
 
-        "text": "They stand for a long time and both say farewell with hope",
-        "background": "assets/locations/rama9_night",
-        "person1": "assets/charakter/patrick_normal",
-        "person2": "assets/charakter/pack_normal",
+        "text": "They stood there for a long time and said farewell with hope",
+        "background": "assets/locations/rama9_night.png",
+        "person1": "assets/charakter/patrick_normal.png",
+        "person2": "assets/charakter/pack_normal.png",
         "optional": null,
         "active": null
     },
     {
 
-        "text": ".. but not knowing if they ever will see again",
-        "background": "assets/locations/rama9_night",
+        "text": "... but not knowing if they would ever see each other again",
+        "background": "assets/locations/rama9_night.png",
         "person1": null,
         "person2": null,
         "optional": null,
